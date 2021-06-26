@@ -1,0 +1,29 @@
+.button3{
+	width: 105px;
+	height: 30px;
+	background-color: #f92525; 
+    border: 2px solid #202124;
+}
+.button3:hover {
+    background-color: #8b8585;
+    color: #f92525;
+    border: 2px solid #202124;
+}
+.button3
+{
+	float:left;
+	width: 105px;
+	height:30px;
+	margin:45px 0px 0px 150px;
+}
+.button3>span{
+	width: 39px;
+	height: 9px;
+	font-family: MyriadPro-Regular;
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 28px;
+	letter-spacing: 0px;
+	color: #ffffff;
+}

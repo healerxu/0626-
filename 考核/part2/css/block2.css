@@ -1,0 +1,117 @@
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap-reverse;
+    flex-wrap: wrap-reverse;
+    width: 560px;
+    height: 288px;
+    background-color: white;
+    float: right;
+    margin: -290px -600px 0px 0px;
+    text-align:center;
+}
+.flex-item2 {
+    background-color: white;
+    width: 550px;
+    height: 30px;
+    font-family: OpenSans;
+	font-size: 18px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 24px;
+	letter-spacing: 0px;
+	white-space: pre;
+}
+.button4{
+	background-color: white;
+	width: 95px;
+	height: 40px;
+	border-radius: 2px;
+	opacity: 0.1;
+    }
+.button4:hover {
+    background-color: #8b8585;
+
+
+}
+.flex-item2>.button4>.span1{
+	width: 49px;
+	height: 11px;
+	font-family: OpenSans-Semibold;
+	font-size: 13px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 50px;
+	letter-spacing: 0px;
+	color: #262b2e;
+	opacity: 0.7;
+}
+
+hr{
+    margin: 25px 0px 25px 0px;
+    width: 560px;
+	height: 1px;
+	background-color: #202124;
+	opacity: 0.07;
+}
+
+.flex-item1 {
+    background-color: white;
+    width: 550px;
+    height: 178px;
+	font-family: OpenSans;
+	font-size: 18px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 24px;
+	letter-spacing: 0px;
+}
+th1{
+	white-space:pre;
+}
+.th1{
+	font-family: OpenSans-Bold;
+	font-size: 14px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 24px;
+	letter-spacing: 0px;
+	color: #262b2e;
+	white-space:pre;
+
+}
+td1{
+	font-family: OpenSans;
+	font-size: 13px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 5px;
+	letter-spacing: 0px;
+	color: #262b2e;
+	white-space:pre;
+}
+.button5{
+    width: 65px;
+	height: 30px;
+	background-color: #5dd054;
+	border-radius: 2px;
+}
+.button5:hover {
+    width: 65px;
+	height: 30px;
+	background-color: #20721a;
+	border-radius: 2px;
+}
+
+.button5>span{
+	width: 41px;
+	height: 11px;
+	font-family: OpenSans-Bold;
+	font-size: 13px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 24px;
+	letter-spacing: 0px;
+	color: #ffffff;
+}
+
